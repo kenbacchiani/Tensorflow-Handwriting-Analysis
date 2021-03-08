@@ -1,2 +1,2 @@
 # Tensorflow Handwriting Analysis
-Utilizes tensorflow to build a deep learning model for predicting the number contained in images of handwritten numbers. This program builds a model, then trains, evaluates it, and makes predictions on test data using this model. Code is written in python and uses the MNIST database for the handwritten images. Link for the images: http://yann.lecun.com/exdb/mnist/
+Utilizes tensorflow to build a deep learning model for predicting the number contained in images of handwritten numbers. This program builds a model, then trains and evaluates it and then makes predictions on test data using the model. Code is written in python and uses the MNIST database for the handwritten images. Link for the images: http://yann.lecun.com/exdb/mnist/
